@@ -12,4 +12,4 @@ Urban markets are the most lucrative overall for Pyber, but rural rides have hig
 Focuses should made on:
 1. Increasing the number of rides in rural communities, as they are higher cost and thus generate more revenue. This could be achieved through a marketing campaign targeted in rural areas or at customers who typically travel to rural destinations.
 2. Decrease the number of drivers in Urban areas, assuming it is possible to keep the number of rides the same. Instead of laying these drivers off, perhaps it's possible to redirect them to rural markets in tandem with the above mentioned marketing campaign.
-3. Increase fare costs in Urban areas to close the gap between average fares costs and average fares per driver in rural and urban communities.
+3. Increase fare costs in Urban areas to close the gap between average fares and average fares per driver in rural and urban communities. Increasing Urban averages would increase overall revenue.
