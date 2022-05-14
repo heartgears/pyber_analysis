@@ -3,7 +3,9 @@
 The purpose of this analysis was to perform an exploratory analysis on Pyber data, a ride sharing app, to showcase the relationship between the number of drivers and fare costs in different types of cities/markets - urban, suburban, and rural.
 
 ## Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.
-![Total_Fare_By_City_Type](Total_Fare_By_City_Type.png)
+![Total_Fare_By_City_Type](Analysis/Total_Fare_By_City_Type.png)
+![driver_fare_averages](Analysis/driver_fare_averages.png)
+![fare_averages](Analysis/fare_averages.png)
 
 Urban markets are the most lucrative overall for Pyber, but rural rides have higher average fares. Average fares per driver are nearly three and a half times higher in rural areas than urban ones.
 ## Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.
